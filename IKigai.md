@@ -1,4 +1,4 @@
-Ikigai
+## Ikigai
 
 Iki means ' life ' gai means " result , effect and benefit " 
 A JAPANESE CONCEPT MEANING 'A REASON FPR BEING '
