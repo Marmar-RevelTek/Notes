@@ -1,6 +1,6 @@
 
 
-The terms "ethics" and "compliance" get tossed out a lot these days, often used interchangeably when talking about businesses doing the right thing. While they certainly both strive to achieve similar goals, they are not quite the same thing. If you want to enhance your corporate culture, it helps to understand the connection between the two, as well as the subtle nuances that set them apart.
+## The terms "ethics" and "compliance" get tossed out a lot these days, often used interchangeably when talking about businesses doing the right thing. While they certainly both strive to achieve similar goals, they are not quite the same thing. If you want to enhance your corporate culture, it helps to understand the connection between the two, as well as the subtle nuances that set them apart.
 
 	² Difference Between Ethics and Compliance
 
