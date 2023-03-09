@@ -1,5 +1,5 @@
 
-Another main pillar of our success is Focus. In working with us, you will provide responsibility for maintaining a high level of focus in your environment and being a role model that learns to train the
+## Another main pillar of our success is Focus. In working with us, you will provide responsibility for maintaining a high level of focus in your environment and being a role model that learns to train the
 monkey mind.
 
 If we were all mindful of the impact our actions have, what's happening around us and why we think and do the things we do, then the world could be a better place. But it has to be linked to a set of values that guide the choices you make and the skills and behaviors that make them happen.
