@@ -1,5 +1,5 @@
 
-What punctuality says about you?
+## What punctuality says about you?
 
 Punctual people are generally organized and systematic; their days are planned from the minute of waking up to going to sleep. While being punctual normally implies certain personality traits such as reliability, conscientiousness, and discipline this is not to say that people who are always late are not these things.
 
