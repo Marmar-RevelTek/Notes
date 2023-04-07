@@ -4,7 +4,7 @@
 Why Participate in ADO Training?
 If you or your team are new to Azure DevOps, participating in an ADO training program or course can be highly beneficial. By participating in an ADO training program, you can learn how to use Azure DevOps effectively and efficiently, which can help you and your team be more productive and successful in your software development projects.
 
-Some of the benefits of ADO training include:
+## Some of the benefits of ADO training include:
 
 Understanding how to use Azure DevOps to streamline your software development process
 Learning best practices for using version control and managing work items and tasks
@@ -13,33 +13,33 @@ Enhancing your ability to build and deploy applications using continuous integra
 Learning how to create and run tests to ensure your code is working as expected
 Improving your ability to monitor and report on project progress to stakeholders
 Learning Topics in Azure DevOps Training
-Azure DevOps (ADO) is a cloud-based service that offers a variety of tools for managing the software development lifecycle. Here are some of the key learning topics you may encounter in ADO training:
+Azure DevOps (ADO) is a cloud-based service that offers a variety of tools for managing the software development lifecycle. Here are some of the key learning topics ## you may encounter in ADO training:
 
-Introduction to Azure DevOps:
+## Introduction to Azure DevOps:
 This section provides an overview of ADO and its various features. You will learn how ADO can help you manage your software development projects, and get familiar with the ADO user interface.
 
 Choosing an Agile approach to software development:
 Agile software development is an iterative approach that emphasizes flexibility and collaboration. In this section, you will learn about the benefits of Agile software development and how it can be implemented in ADO.
 
-Getting started with Azure DevOps:
+## Getting started with Azure DevOps:
 This section covers the basics of setting up an ADO project. You will learn how to create a new project, set up version control, and configure project settings.
 
 Managing Agile software delivery plans across teams:
 This section focuses on how to manage Agile software delivery plans across teams. You will learn how to create and manage sprints, work items, backlogs, and boards. You will also learn how to track progress and identify issues.
 
-Prioritizing your issues:
+## Prioritizing your issues:
 In this section, you will learn how to prioritize issues and manage backlogs effectively. You will learn how to create and manage work items, set priorities, and manage backlogs.
 
-Applying security controls:
+## Applying security controls:
 Security is a critical aspect of software development. In this section, you will learn how to apply security controls to your ADO projects. You will learn how to manage users and permissions, set up security policies, and manage security-related settings.
 
-Creating issues, user stories, task, features, and epic:
+## Creating issues, user stories, task, features, and epic:
 ADO provides a range of tools for creating and managing work items. In this section, you will learn how to create and manage issues, user stories, tasks, features, and epics. You will also learn how to use tags and labels to organize and manage work items.
 
 By learning these topics, you will gain a better understanding of how to use Azure DevOps to manage your software development projects effectively.
 
 Azure DevOps Tools
-Azure DevOps is a cloud-based service provided by Microsoft that offers a range of tools for managing the software development lifecycle. Some of the most important Azure DevOps tools are:
+Azure DevOps is a cloud-based service provided by Microsoft that offers a range of tools for managing the software development lifecycle. Some of the most important ## ## Azure DevOps tools are:
 
 1. Boards:
 Azure Boards is a tool for managing your backlog, tracking your work items (such as bugs, tasks, and user stories), and planning and tracking sprints. Boards provides you with a range of agile tools, including customizable Kanban boards and Scrum boards.
