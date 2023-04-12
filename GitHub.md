@@ -13,7 +13,7 @@ What is a branch?
 A branch is a parallel version of your repository. By default, your repository has one branch named main and it is considered to be the definitive branch. Creating additional branches allows you to copy the main branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
 
 Branches allow you to separate your work from the main branch. In other words, everyone's work is safe while you contribute.
-What is a profile README?: A profile README is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page.
+## What is a profile README?: A profile README is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page.
 
 What is a pull request?
 
